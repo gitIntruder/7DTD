@@ -1,0 +1,111 @@
+<configs>
+  <!--13erserk - Pick spikes,mines,traps START-->
+  <append xpath="/blocks/block[@name='trapSpikesWoodMaster']">
+    <property name="CanPickup" value="true" />
+  </append>
+
+  <append xpath="/blocks/block[@name='trapSpikesWoodDmg2']">
+    <property name="CanPickup" value="true" />
+  </append>
+
+  <append xpath="/blocks/block[@name='trapSpikesWoodDmg1']">
+    <property name="CanPickup" value="true" />
+  </append>
+
+  <append xpath="/blocks/block[@name='trapSpikesWoodDmg0']">
+    <property name="CanPickup" value="true" />
+  </append>
+
+  <append xpath="/blocks/block[@name='trapSpikesScrapIronMaster']">
+    <property name="CanPickup" value="true"/>
+  </append>
+
+  <append xpath="/blocks/block[@name='trapSpikesIronDmg2']">
+    <property name="CanPickup" value="true"/>
+  </append>
+
+  <append xpath="/blocks/block[@name='trapSpikesIronDmg1']">
+    <property name="CanPickup" value="true"/>
+  </append>
+
+  <append xpath="/blocks/block[@name='trapSpikesIronDmg0']">
+    <property name="CanPickup" value="true"/>
+  </append>
+
+  <append xpath="/blocks/block[@name='woodLogSpike1']">
+    <property name="CanPickup" value="true"/>
+  </append>
+  
+  <append xpath="/blocks/block[@name='rWoodLogSpike2']">
+    <property name="CanPickup" value="true"/>
+  </append>
+
+  <append xpath="/blocks/block[@name='rWoodMetalLogSpike3']">
+    <property name="CanPickup" value="true"/>
+  </append>
+  
+  <append xpath="/blocks/block[@name='scrapIronLogSpike4']">
+    <property name="CanPickup" value="true"/>
+  </append>
+  
+  <append xpath="/blocks/block[@name='rScrapIronLogSpike5']">
+    <property name="CanPickup" value="true"/>
+  </append>
+  
+  <append xpath="/blocks/block[@name='steelLogSpike6']">
+    <property name="CanPickup" value="true"/>
+  </append>
+
+  <append xpath="/blocks/block[@name='trapSpikesNew']">
+    <property name="CanPickup" value="true"/>
+  </append>
+  
+  <append xpath="/blocks/block[@name='trapSpikesDamage1']">
+    <property name="CanPickup" value="true"/>
+  </append>
+  
+  <append xpath="/blocks/block[@name='trapSpikesDamage2']">
+    <property name="CanPickup" value="true"/>
+  </append>
+  
+  <append xpath="/blocks/block[@name='trapSpikesDamage3']">
+    <property name="CanPickup" value="true"/>
+  </append>
+  
+  <append xpath="/blocks/block[@name='trapSpikesDamage4']">
+    <property name="CanPickup" value="true"/>
+  </append>
+
+  <append xpath="/blocks/block[@name='trapSpikesDamage5']">
+    <property name="CanPickup" value="true"/>
+  </append>
+
+  <append xpath="/blocks/block[@name='barbedWireSheet']">
+    <property name="CanPickup" value="true" />
+  </append>
+  
+  <append xpath="/blocks/block[@name='barbedFence']">
+    <property name="CanPickup" value="true" />
+  </append>
+
+  <append xpath="/blocks/block[@name='mineCandyTin']">
+    <property name="CanPickup" value="true" />
+  </append>
+  
+  <append xpath="/blocks/block[@name='rScrapIronPlateMine']">
+    <property name="CanPickup" value="true" />
+  </append>
+
+  <append xpath="/blocks/block[@name='mineCookingPot']">
+    <property name="CanPickup" value="true" />
+  </append>
+  
+  <append xpath="/blocks/block[@name='mineHubcap']">
+    <property name="CanPickup" value="true" />
+  </append>
+  
+  <append xpath="/blocks/block[@name='mineAirFilter']">
+    <property name="CanPickup" value="true" />
+  </append>
+  <!--13erserk - Pick spikes,mines,traps FINISH-->
+</configs>

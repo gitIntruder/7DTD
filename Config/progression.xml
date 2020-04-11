@@ -1,0 +1,7 @@
+<configs>
+  <!--Bdubs Vehicles - START-->
+	<append xpath="/progression/perks/perk[@name='perkGreaseMonkey']/effect_group/passive_effect[@level='3,5']/@tags">,vehicleCruiserChassis,vehicleCruiserbars,vehicleDirtBikeChassis,vehicleDirtBikeParts</append>
+	<append xpath="/progression/perks/perk[@name='perkGreaseMonkey']/effect_group/passive_effect[@level='4,5']/@tags">,vehicleChargerchassis,vehicleChargeraccessories,vehiclePickupchassis,vehiclePickupaccessories</append>
+	<append xpath="/progression/perks/perk[@name='perkGreaseMonkey']/effect_group/passive_effect[@level='5']/@tags">,vehicleMD500chassis,vehicleMD500accessories,vehicleBRDM2chassis,vehicleBRDM2accessories,vehicleMRAPparts,vehicleMRAPaccessories,vehicleMarauderchassis,vehicleMarauderaccessories</append>
+  <!--Bdubs Vehicles - FINISH-->
+ </configs>
