@@ -22,9 +22,17 @@
     - Version: 2.9
     - Status: Modified
         - Commented out the following vehicles
-            - a
-            - b
-    Related Files:
-        - /Config/
-        - /Resources/
-        - /UIAtlases/
+            - TODO
+    - Related Files:
+        - /Config/buffs.xml
+        - /Config/entityclasses.xml
+        - /Config/items.xml
+        - /Config/Localization.txt
+        - /Config/loot.xml
+        - /Config/progression.xml
+        - /Config/recipes.xml
+        - /Config/sounds.xml
+        - /Config/vehicles.xml
+        - /Resources/...
+        - /UIAtlases/ItemIconAtlas/...
+        - /UIAtlases/UIAtlas/...
