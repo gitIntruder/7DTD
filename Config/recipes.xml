@@ -605,5 +605,20 @@
       <ingredient name="carBattery" count="1"/>
     </recipe>
     <!--Bdubs Vehicles - FINISH-->
+
+    <!--BlessedMetalMod - START-->
+    <recipe name="modGunMeleeBlessedMetal" count="1" craft_area="workbench" tags="workbenchCrafting">
+      <ingredient name="resourceForgedSteel" count="100"/>
+      <ingredient name="resourceForgedIron" count="100"/>
+      <ingredient name="foodRottingFlesh" count="50"/>
+    </recipe>
+
+    <recipe name="modGunMeleeBlessedMetalSchematic" count="1" craft_area="workbench" tags="workbenchCrafting">
+      <!-- <ingredient name="resourceForgedSteel" count="15"/> -->
+      <!-- <ingredient name="resourceForgedIron" count="15"/> -->
+      <ingredient name="foodRottingFlesh" count="75"/>
+      <ingredient name="resourcePaper" count="100"/>
+    </recipe>
+    <!--BlessedMetalMod - FINISH-->
   </append>
 </configs>
