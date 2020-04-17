@@ -1,5 +1,5 @@
 ## 7DTD.git
-### 7 Days to Die Pegasus Command - Consolidated Mods
+### 7 Days to Die - Pegasus Command - Consolidated Mods
 - 7_Stacks_30k_(A18)
     - Description: Most Items and Resources Stack to 10k
     - Author: Jamez88
