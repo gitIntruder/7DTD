@@ -1,0 +1,11 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,latam,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese,spanish
+itemFirewood,items,item,,,"Firewood"
+itemFirewoodDesc,items,item,,,"Firewood burns 20x longer than regular wood."
+
+vehicleUH60chassis,items,Part,,,"UH-60 Chassis"
+vehicleUH60chassisDesc,items,Part,,,"Parts needed to craft the UH-60. Grease Monkey level 5 required."
+vehicleUH60accessories,items,Part,,,"UH-60 Accessories"
+vehicleUH60accessoriesDesc,items,Part,,,"Parts needed to craft the UH-60."
+vehicleUH60,vehicles,vehicle,,,"UH-60"
+vehicleUH60placeable,vehicles,item,,,"UH-60"
+vehicleUH60placeableDesc,vehicles,item,,,"They can't kill you if they can't hit you!"

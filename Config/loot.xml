@@ -1,0 +1,19 @@
+<configs>
+  <!--60 Slots - BEGIN-->
+  <!-- Make player dropped bags bigger to accomodate new size-->
+  <set xpath="/lootcontainers/lootcontainer[@id='2']/@size">8,10</set>
+  <!--60 Slots - END-->
+
+  <!--UH-60 Helicopter - BEGIN-->
+  <insertBefore xpath="/lootcontainers/lootgroup[@name='groupQuestChallenge']">
+    <lootgroup name="UH60group">
+      <item name="vehicleUH60chassis"/>
+      <item name="vehicleUH60accessories"/>
+    </lootgroup>
+  </insertBefore>
+
+  <append xpath="/lootcontainers/lootgroup[@name='vehicleParts']">
+    <item group="UH60group" loot_prob_template="probTemplate0.35"/>
+  </append>
+  <!--UH-60 Helicopter - END-->
+</configs>
