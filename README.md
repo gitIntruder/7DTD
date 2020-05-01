@@ -1,0 +1,45 @@
+## 7DTD.git
+### 7 Days to Die - Pegasus Command - Consolidated Mods
+- 7_Stacks_30k_(A18)
+    - Description: Most Items and Resources Stack to 10k
+    - Author: Jamez88
+    - Version: 1.0
+    - Website: https://www.nexusmods.com/7daystodie/mods/141
+    - Status: Original
+    - Related Files:
+        - /Config/items.xml
+- 13erserk-Pick spikes,mines,traps
+    - Description: You can pick up spikes, mines and traps
+    - Author: 13erserk
+    - Version: 18.0.2.0
+    - Compatability: A18
+    - Status: Original
+    - Related Files:
+        - /Config/blocks.xml
+- Bdubs Vehicles
+    - Description: A collection of the vehicle modlets I have made
+    - Author: bdubyah
+    - Version: 2.9
+    - Status: Modified
+        - Commented out the following vehicles
+            - TODO
+    - Related Files:
+        - /Config/buffs.xml
+        - /Config/entityclasses.xml
+        - /Config/items.xml
+        - /Config/Localization.txt
+        - /Config/loot.xml
+        - /Config/progression.xml
+        - /Config/recipes.xml
+        - /Config/sounds.xml
+        - /Config/vehicles.xml
+        - /Resources/...
+        - /UIAtlases/ItemIconAtlas/...
+        - /UIAtlases/UIAtlas/...
+- BlessedMetalMod
+    - Description: Adds Blessed Metal in to crafting and it's schematic
+    - Status: Original
+    Related Files:
+        - /Config/recipes.xml
+        - /UIAtlases/ItemIconAtlas/...
+- 
